@@ -1,0 +1,8 @@
+train: dataset_fruits_vegs/train/images
+val: dataset_fruits_vegs/test/images
+
+nc: 14 
+names: ['banana_wb', 'banana_wob', 'blackberries', 'raspberry', 'lemon_wb', 'lemon_wob', 'grapes_wb', 'grapes_wob', 'tomato_wb', 'tomato_wob', 'apple_wb', 'apple_wob', 'chilli_wb', 'chilli_wob']
+
+
+
